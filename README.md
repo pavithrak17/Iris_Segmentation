@@ -67,7 +67,3 @@ The algorithm effectively segments the iris with high precision, even in challen
 - Integrate deep learning for improved feature extraction.
 - Expand testing on diverse iris datasets for higher robustness.
 - Enhance lighting adaptability for more accurate segmentation.
-
-## References
-- [Deep Learning-Based Iris Segmentation Algorithm for Effective Iris Recognition System (2022)](https://example.com)
-- [Iris-SAM: Iris Segmentation Using a Foundation Model (2024)](https://example.com)
